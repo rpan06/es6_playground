@@ -11,4 +11,4 @@ export const multiply = (x,y) => x * y;
 export const divide = (x,y) => y ? x/y : "can't divide by zero";
 
 
-export default 'this is the defaul export';
+export default 'this is the default export';
